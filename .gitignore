@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project-specific
+exact_hashes.sqlite
+pipeline_progress.json
+sample_data/
+lid.176.ftz
+output.log
+error.log
+download_sample.log
+download_sample_error.log
+instruction_output.log
+instruction_error.log
